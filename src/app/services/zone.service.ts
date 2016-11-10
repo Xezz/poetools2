@@ -1,6 +1,7 @@
 import { Injectable } from '@angular/core';
 import { Http, Response, Headers, RequestOptions } from '@angular/http';
 import {Observable} from 'rxjs/Rx';
+import {ZoneLevels} from "../exp-calc/zone-levels";
 
 @Injectable()
 export class ZoneService {
@@ -8,7 +9,7 @@ export class ZoneService {
 
   constructor(private http:Http) {}
 
-  getData():Observable<any> {
+  getData():Observable<ZoneLevels> {
     //noinspection TypeScriptUnresolvedFunction
     return this.http
       .get(this.url)

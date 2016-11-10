@@ -1,306 +1,461 @@
 [
   {
     "zone": "Lioneye's Watch",
-    "levels": "13 / 44 / 59"
+    "normal": 13,
+    "cruel": 44,
+    "merciless": 59
   },
   {
     "zone": "The Twilight Strand",
-    "levels": "1 / 40 / 56"
+    "normal": 1,
+    "cruel": 40,
+    "merciless": 56
   },
   {
     "zone": "The Coast",
-    "levels": "2 / 40 / 56"
+    "normal": 2,
+    "cruel": 40,
+    "merciless": 56
+
   },
   {
     "zone": "The Tidal Island",
-    "levels": "3 / 42 / 57"
+    "normal": 3,
+    "cruel": 42,
+    "merciless": 57
   },
   {
     "zone": "The Mud Flats",
-    "levels": "4 / 41 / 56"
+    "normal": 4,
+    "cruel": 41,
+    "merciless": 56
   },
   {
     "zone": "The Fetid Pool",
-    "levels": "5 / 43 / 57"
+    "normal": 5,
+    "cruel": 43,
+    "merciless": 57
   },
   {
     "zone": "The Flooded Depths",
-    "levels": "6 / 41 / 57"
+    "normal": 6,
+    "cruel": 41,
+    "merciless": 57
   },
   {
     "zone": "The Submerged Passage",
-    "levels": "5 / 41 / 56"
+    "normal": 5,
+    "cruel": 41,
+    "merciless": 56
   },
   {
     "zone": "The Ledge",
-    "levels": "6 / 42 / 56"
+    "normal": 6,
+    "cruel": 42,
+    "merciless": 56
   },
   {
     "zone": "The Climb",
-    "levels": "7 / 42 / 56"
+    "normal": 7,
+    "cruel": 42,
+    "merciless": 56
   },
   {
     "zone": "The Lower Prison",
-    "levels": "8 / 42 / 56"
+    "normal": 8,
+    "cruel": 42,
+    "merciless": 56
   },
   {
     "zone": "The Upper Prison",
-    "levels": "9 / 43 / 57"
+    "normal": 9,
+    "cruel": 43,
+    "merciless": 57
   },
   {
     "zone": "Prisoner's Gate",
-    "levels": "10 / 43 / 57"
+    "normal": 10,
+    "cruel": 43,
+    "merciless": 57
   },
   {
     "zone": "The Ship Graveyard",
-    "levels": "11 / 43 / 57"
+    "normal": 11,
+    "cruel": 43,
+    "merciless": 57
   },
   {
     "zone": "The Ship Graveyard Cave",
-    "levels": "12 / 45 / 58"
+    "normal": 12,
+    "cruel": 45,
+    "merciless": 58
   },
   {
     "zone": "The Cavern of Wrath",
-    "levels": "12 / 43 / 58"
+    "normal": 12,
+    "cruel": 43,
+    "merciless": 58
   },
   {
     "zone": "The Cavern of Anger",
-    "levels": "13 / 44 / 59"
+    "normal": 13,
+    "cruel": 44,
+    "merciless": 59
   },
   {
     "zone": "The Forest Encampment",
-    "levels": "23 / 48 / 62"
+    "normal": 23,
+    "cruel": 48,
+    "merciless": 62
   },
   {
     "zone": "The Southern Forest",
-    "levels": "13 / 44 / 59"
+    "normal": 13,
+    "cruel": 44,
+    "merciless": 59
   },
   {
     "zone": "The Old Fields",
-    "levels": "14 / 45 / 60"
+    "normal": 14,
+    "cruel": 45,
+    "merciless": 60
   },
   {
     "zone": "The Den",
-    "levels": "15 / 46 / 60"
+    "normal": 15,
+    "cruel": 46,
+    "merciless": 60
   },
   {
     "zone": "The Crossroads",
-    "levels": "15 / 46 / 60"
+    "normal": 15,
+    "cruel": 46,
+    "merciless": 60
   },
   {
     "zone": "The Crypt Level 1",
-    "levels": "17 / 46 / 60"
+    "normal": 17,
+    "cruel": 46,
+    "merciless": 60
   },
   {
     "zone": "The Crypt Level 2",
-    "levels": "18 / 46 / 61"
+    "normal": 18,
+    "cruel": 46,
+    "merciless": 61
   },
   {
     "zone": "The Chamber of Sins Level 1",
-    "levels": "15 / 46 / 60"
+    "normal": 15,
+    "cruel": 46,
+    "merciless": 60
   },
   {
     "zone": "The Chamber of Sins Level 2",
-    "levels": "16 / 46 / 61"
+    "normal": 16,
+    "cruel": 46,
+    "merciless": 61
   },
   {
     "zone": "The Broken Bridge",
-    "levels": "16 / 46 / 61"
+    "normal": 16,
+    "cruel": 46,
+    "merciless": 61
   },
   {
     "zone": "The Riverways",
-    "levels": "15 / 45 / 60"
+    "normal": 15,
+    "cruel": 45,
+    "merciless": 60
   },
   {
     "zone": "The Northern Forest",
-    "levels": "21 / 47 / 61"
+    "normal": 21,
+    "cruel": 47,
+    "merciless": 61
   },
   {
     "zone": "The Western Forest",
-    "levels": "17 / 46 / 61"
+    "normal": 17,
+    "cruel": 46,
+    "merciless": 61
   },
   {
     "zone": "The Weaver's Chambers",
-    "levels": "18 / 46 / 61"
+    "normal": 18,
+    "cruel": 46,
+    "merciless": 61
   },
   {
     "zone": "The Vaal Ruins",
-    "levels": "20 / 47 / 61"
+    "normal": 20,
+    "cruel": 47,
+    "merciless": 61
   },
   {
     "zone": "The Wetlands",
-    "levels": "19 / 46 / 61"
+    "normal": 19,
+    "cruel": 46,
+    "merciless": 61
   },
   {
     "zone": "The Dread Thicket",
-    "levels": "21 / 48 / 63"
+    "normal": 21,
+    "cruel": 48,
+    "merciless": 63
   },
   {
     "zone": "The Caverns",
-    "levels": "22 / 47 / 62"
+    "normal": 22,
+    "cruel": 47,
+    "merciless": 62
   },
   {
     "zone": "The Ancient Pyramid",
-    "levels": "23 / 48 / 63"
+    "normal": 23,
+    "cruel": 48,
+    "merciless": 63
   },
   {
     "zone": "The Fellshrine Ruins",
     "levels": "16 / 46 / 60"
+    "normal": 16,
+    "cruel": 46,
+    "merciless": 60
   },
   {
     "zone": "The Eternal Laboratory",
-    "levels": "68 / 68 / 68"
+    "normal": 68,
+    "cruel": 68,
+    "merciless": 68
   },
   {
     "zone": "The Sarn Encampment",
-    "levels": "33 / 54 / 62"
+    "normal": 33,
+    "cruel": 54,
+    "merciless": 62
   },
   {
     "zone": "The City of Sarn",
-    "levels": "23 / 48 / 63"
+    "normal": 23,
+    "cruel": 48,
+    "merciless": 62
   },
   {
     "zone": "The Slums",
-    "levels": "24 / 49 / 63"
+    "normal": 24,
+    "cruel": 49,
+    "merciless": 63
   },
   {
     "zone": "The Slums Sewers",
-    "levels": "25 / 49 / 63"
+    "normal": 25,
+    "cruel": 49,
+    "merciless": 63
   },
   {
     "zone": "The Crematorium",
-    "levels": "25 / 49 / 63"
+    "normal": 25,
+    "cruel": 49,
+    "merciless": 63
   },
   {
     "zone": "The Warehouse District",
-    "levels": "26 / 49 / 63"
+    "normal": 26,
+    "cruel": 49,
+    "merciless": 63
   },
   {
     "zone": "The Warehouse Sewers",
-    "levels": "6 / 49 / 63"
+    "normal": 26,
+    "cruel": 49,
+    "merciless": 63
   },
   {
     "zone": "The Marketplace",
-    "levels": "26 / 49 / 63"
+    "normal": 26,
+    "cruel": 49,
+    "merciless": 63
   },
   {
     "zone": "The Market Sewers",
-    "levels": "27 / 50 / 65"
+    "normal": 27,
+    "cruel": 50,
+    "merciless": 65
   },
   {
     "zone": "The Catacombs",
-    "levels": "27 / 52 / 67"
+    "normal": 27,
+    "cruel": 52,
+    "merciless": 67
   },
   {
     "zone": "The Battlefront",
-    "levels": "27 / 50 / 64"
+    "normal": 27,
+    "cruel": 50,
+    "merciless": 64
   },
   {
     "zone": "The Solaris Temple Level 1",
-    "levels": "27 / 50 / 64"
+    "normal": 27,
+    "cruel": 50,
+    "merciless": 64
   },
   {
     "zone": "The Solaris Temple Level 2",
-    "levels": "28 / 51 / 64"
+    "normal": 28,
+    "cruel": 51,
+    "merciless": 64
   },
   {
     "zone": "The Docks",
-    "levels": "29 / 51 / 64"
+    "normal": 29,
+    "cruel": 51,
+    "merciless": 64
   },
   {
     "zone": "The Ebony Barracks",
-    "levels": "29 / 51 / 64"
+    "normal": 29,
+    "cruel": 51,
+    "merciless": 64
   },
   {
     "zone": "The Lunaris Temple Level 1",
-    "levels": "29 / 51 / 64"
+    "normal": 29,
+    "cruel": 51,
+    "merciless": 64
   },
   {
     "zone": "The Lunaris Temple Level 2",
-    "levels": "30 / 52 / 65"
+    "normal": 30,
+    "cruel": 52,
+    "merciless": 65
   },
   {
     "zone": "The Library",
-    "levels": "30 / 53 / 66"
+    "normal": 30,
+    "cruel": 53,
+    "merciless": 66
   },
   {
     "zone": "The Archives",
-    "levels": "31 / 53 / 66"
+    "normal": 31,
+    "cruel": 53,
+    "merciless": 66
   },
   {
     "zone": "The Sceptre of God",
-    "levels": "32 / 53 / 66"
+    "normal": 32,
+    "cruel": 53,
+    "merciless": 66
   },
   {
     "zone": "The Upper Sceptre of God",
-    "levels": "33 / 54 / 67"
+    "normal": 33,
+    "cruel": 54,
+    "merciless": 67
   },
   {
     "zone": "The Slums Sewers",
-    "levels": "25 / 49 / 63"
+    "normal": 25,
+    "cruel": 49,
+    "merciless": 63
   },
   {
     "zone": "The Warehouse Sewers",
-    "levels": "26 / 49 / 63"
+    "normal": 26,
+    "cruel": 49,
+    "merciless": 63
   },
   {
     "zone": "The Market Sewers",
-    "levels": "27 / 50 / 65"
+    "normal": 27,
+    "cruel": 50,
+    "merciless": 65
   },
   {
     "zone": "Highgate",
-    "levels": "40 / 57 / 62"
+    "normal": 40,
+    "cruel": 57,
+    "merciless": 62
   },
   {
     "zone": "The Aqueduct",
-    "levels": "33 / 54 / 67"
+    "normal": 33,
+    "cruel": 54,
+    "merciless": 67
   },
   {
     "zone": "The Dried Lake",
-    "levels": "34 / 55 / 67"
+    "normal": 34,
+    "cruel": 55,
+    "merciless": 67
   },
   {
     "zone": "The Mines Level 1",
-    "levels": "34 / 55 / 67"
+    "normal": 34,
+    "cruel": 55,
+    "merciless": 67
   },
   {
     "zone": "The Mines Level 2",
-    "levels": "335 / 55 / 67"
+    "normal": 35,
+    "cruel": 55,
+    "merciless": 67
   },
   {
     "zone": "The Crystal Veins",
-    "levels": "35 / 55 / 68"
+    "normal": 35,
+    "cruel": 55,
+    "merciless": 68
   },
   {
     "zone": "Kaom's Dream",
-    "levels": "36 / 55 / 68"
+    "normal": 36,
+    "cruel": 55,
+    "merciless": 68
   },
   {
     "zone": "Kaom's Path",
-    "levels": "37 / 55 / 68"
+    "normal": 37,
+    "cruel": 55,
+    "merciless": 68
   },
   {
     "zone": "Kaom's Stronghold",
     "levels": "38 / 56 / 69"
+    "normal": 30,
+    "cruel": 52,
+    "merciless": 65
   },
   {
     "zone": "Daresso's Dream",
-    "levels": "37 / 55 / 68"
+    "normal": 37,
+    "cruel": 55,
+    "merciless": 68
   },
   {
     "zone": "The Grand Arena",
-    "levels": "38 / 56 / 69"
+    "normal": 38,
+    "cruel": 56,
+    "merciless": 69
   },
   {
     "zone": "The Belly of the Beast Level 1",
-    "levels": "38 / 56 / 69"
+    "normal": 38,
+    "cruel": 56,
+    "merciless": 69
   },
   {
     "zone": "The Belly of the Beast Level 2",
-    "levels": "39 / 56 / 69"
+    "normal": 39,
+    "cruel": 56,
+    "merciless": 69
   },
   {
     "zone": "The Harvest",
-    "levels": "40 / 57 / 70"
+    "normal": 40,
+    "cruel": 57,
+    "merciless": 70
   }
 ]
