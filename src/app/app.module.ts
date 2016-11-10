@@ -6,14 +6,13 @@ import { MaterialModule } from '@angular/material';
 
 import { AppComponent } from './app.component';
 import {LevelService} from "./services/level.service";
-import {ZoneService} from "./services/zone.service";
+import {AreaDataService} from "./services/area-data.service.ts";
 import {MapService} from "./services/map.service";
 import { ExpCalcComponent } from './exp-calc/exp-calc.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    ExpCalcComponent,
     ExpCalcComponent
   ],
   imports: [
@@ -22,7 +21,7 @@ import { ExpCalcComponent } from './exp-calc/exp-calc.component';
     HttpModule,
     MaterialModule.forRoot()
   ],
-  providers: [LevelService, ZoneService, MapService],
+  providers: [LevelService, AreaDataService, MapService],
   bootstrap: [AppComponent]
 })
 export class AppModule {

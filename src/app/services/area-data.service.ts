@@ -1,19 +1,19 @@
 import { Injectable } from '@angular/core';
 import { Http, Response, Headers, RequestOptions } from '@angular/http';
 import {Observable} from 'rxjs/Rx';
-import {ZoneLevels} from "../exp-calc/zone-levels";
+import {AreaLevels} from "../exp-calc/area-levels";
 
 @Injectable()
-export class ZoneService {
+export class AreaDataService {
   private url:string = './app/data/zonedata.json';
 
   constructor(private http:Http) {}
 
-  getData():Observable<ZoneLevels> {
+  getData():Observable<AreaLevels[]> {
     //noinspection TypeScriptUnresolvedFunction
     return this.http
       .get(this.url)
       .map((res:Response) => res.json())
-      .catch((error:any) => Observable.throw('Server error'));
+      .catch((error:any) => Observable.throw(error));
   }
 }

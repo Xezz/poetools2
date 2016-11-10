@@ -2,6 +2,8 @@ import { Component, OnInit } from '@angular/core';
 import {LevelService} from "../services/level.service";
 import {MapService} from "../services/map.service";
 import {PenaltyLevels} from "./penalty-levels";
+import {AreaDataService} from "../services/area-data.service.ts";
+import {AreaLevels} from "./area-levels";
 
 @Component({
   selector: 'exp-calc',
@@ -10,7 +12,8 @@ import {PenaltyLevels} from "./penalty-levels";
 })
 export class ExpCalcComponent implements OnInit {
   levelData : PenaltyLevels[] = new Array<PenaltyLevels>();
-  constructor(private levelService : LevelService) { }
+  areaData : AreaLevels[] = new Array<AreaLevels>();
+  constructor(private levelService : LevelService, private areaDataService : AreaDataService) { }
 
   ngOnInit() {
     this.levelService.getData().subscribe(
@@ -19,5 +22,12 @@ export class ExpCalcComponent implements OnInit {
         this.levelData = levels;
       }
     );
+    this.areaDataService.getData().subscribe(
+      areaData => {
+        console.log(areaData);
+        this.areaData = areaData;
+      }
+    );
+
   }
 }

@@ -218,7 +218,6 @@
   },
   {
     "zone": "The Fellshrine Ruins",
-    "levels": "16 / 46 / 60"
     "normal": 16,
     "cruel": 46,
     "merciless": 60
@@ -423,7 +422,6 @@
   },
   {
     "zone": "Kaom's Stronghold",
-    "levels": "38 / 56 / 69"
     "normal": 30,
     "cruel": 52,
     "merciless": 65
